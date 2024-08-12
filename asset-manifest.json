@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HollywoodHunt/static/css/main.60a1a740.css",
-    "main.js": "/HollywoodHunt/static/js/main.131ed253.js",
-    "static/js/453.1aae2a4a.chunk.js": "/HollywoodHunt/static/js/453.1aae2a4a.chunk.js",
-    "static/media/back.png": "/HollywoodHunt/static/media/back.00eeda92becca0f78dcf.png",
-    "index.html": "/HollywoodHunt/index.html",
-    "main.60a1a740.css.map": "/HollywoodHunt/static/css/main.60a1a740.css.map",
-    "main.131ed253.js.map": "/HollywoodHunt/static/js/main.131ed253.js.map",
-    "453.1aae2a4a.chunk.js.map": "/HollywoodHunt/static/js/453.1aae2a4a.chunk.js.map"
+    "main.css": "/HollywoodHunt/StartPage/static/css/main.7628fb89.css",
+    "main.js": "/HollywoodHunt/StartPage/static/js/main.f9525d69.js",
+    "static/js/453.1aae2a4a.chunk.js": "/HollywoodHunt/StartPage/static/js/453.1aae2a4a.chunk.js",
+    "static/media/back.png": "/HollywoodHunt/StartPage/static/media/back.00eeda92becca0f78dcf.png",
+    "index.html": "/HollywoodHunt/StartPage/index.html",
+    "main.7628fb89.css.map": "/HollywoodHunt/StartPage/static/css/main.7628fb89.css.map",
+    "main.f9525d69.js.map": "/HollywoodHunt/StartPage/static/js/main.f9525d69.js.map",
+    "453.1aae2a4a.chunk.js.map": "/HollywoodHunt/StartPage/static/js/453.1aae2a4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60a1a740.css",
-    "static/js/main.131ed253.js"
+    "static/css/main.7628fb89.css",
+    "static/js/main.f9525d69.js"
   ]
 }
