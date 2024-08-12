@@ -1,0 +1,49 @@
+/* src/NoInternetPage.css */
+.container {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-left: 25%;
+    font-size: x-larger;
+    font-weight: 400;
+  }
+  
+  .error-icon {
+    font-size: 80px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .container p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    font-size: x-larger;
+    font-weight: 400;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin: 5px 0;
+  }
+  
+  .error-code {
+    color: #666;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+  

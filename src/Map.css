@@ -1,0 +1,141 @@
+body{
+    background-image: url('./components/back.png');
+    background-repeat: no-repeat;
+    width: 80%;
+    height: 80%;
+    background-size: cover;
+    mix-blend-mode:color-burn;
+} 
+.map{
+    
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    z-index: -7;
+}
+svg{
+    z-index: 4;
+    position: absolute;
+    top: -400px;
+   
+    left: 50px;
+}
+
+button{
+    background-color: #f80606;
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: azure;
+    cursor:pointer
+}
+.zero{
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    z-index: 88;
+}
+
+.one{
+    position: absolute;
+    top:54%;
+    left: 18%;
+    z-index: 88;
+}
+.two{
+    position: absolute;
+    top:36%;
+    left: 28%;
+    z-index: 88;
+}
+.three{
+    position: absolute;
+    top:12%;
+    left: 38%;
+    z-index: 88;
+}
+.four{
+    position: absolute;
+    top:20%;
+    left: 51%;
+    z-index: 88;
+
+}
+.five{
+    position: absolute;
+    top:44%;
+    left: 47%;
+    z-index: 88;
+
+}
+.six{
+    position: absolute;
+    top:61%;
+    left: 34%;
+    z-index: 88;
+
+}
+.seven{
+    position: absolute;
+    top:74%;
+    left: 20%;
+    z-index: 88;
+
+}
+.eight{
+    position: absolute;
+    top:88%;
+    left: 31%;
+    z-index: 88;
+
+}
+.nine{
+    position: absolute;
+    top:83%;
+    left: 46%;
+    z-index: 88;
+
+}
+.ten{
+    position: absolute;
+    top:67%;
+    left: 58%;
+    z-index: 88;
+
+}
+.eleven{
+    position: absolute;
+    top:38%;
+    left: 61%;
+    z-index: 88;
+
+}
+.twelve{
+    position: absolute;
+    top:12%;
+    left: 69%;
+    z-index: 88;
+
+}
+.thirteen{
+    position: absolute;
+    top:7%;
+    left: 83%;
+    z-index: 88;
+
+}
+.fourteen{
+    position: absolute;
+    top:30%;
+    left: 79%;
+    z-index: 88;
+
+}
+buttton{
+    text-decoration: none;
+    color: white;
+}
